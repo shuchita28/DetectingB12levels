@@ -1,5 +1,5 @@
 # DetectingB12levels
-This project aims to detect a person's B12 level by looking him/her psychology and mental health.
+This project aims to detect a person's B12 level by looking at their mental health.
 
 ## :poultry_leg: Problem
 Psychology and mental health problems are really common in this century. And the lack of vitamin B12 causes some other big health problems like anemia, forgetfulness, neurologic, gastrointestinal problems, etc. Psychology problems can occur for many reasons such as childhood traumas, private life, family problems, work-life, and so on.
